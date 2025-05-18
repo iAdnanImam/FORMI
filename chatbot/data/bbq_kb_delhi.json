@@ -1,0 +1,12 @@
+[
+  {
+    "intent": "faq",
+    "question": "What are the timings for Barbeque Nation Delhi?",
+    "answer": "Barbeque Nation Delhi is open from 12 PM to 11 PM every day."
+  },
+  {
+    "intent": "availability",
+    "question": "Is lunch available on Sunday?",
+    "answer": "Yes, lunch is available on Sundays from 12 PM to 3 PM."
+  }
+]
